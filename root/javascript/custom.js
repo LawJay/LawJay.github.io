@@ -241,7 +241,7 @@
         function initMapsNormal() {
             var mapOptions = {
                 zoom: 17,
-                center: new google.maps.LatLng(51.5287352, -0.3817831),
+                center: new google.maps.LatLng(57.147664,  -2.094945),
                 mapTypeId: google.maps.MapTypeId.ROADMAP,
                 scrollwheel: false,
                 disableDefaultUI: false
@@ -403,11 +403,9 @@
         sr.reveal('#about-card,.map-label', {duration: 1400, delay: 500});
         sr.reveal('#v-card-holder', {duration: 1400, distance: '150px'});
         sr.reveal('.skillbar-bar', {duration: 1800, delay: 300, distance: '0'});
-        
+
 
     });
 
 
 })(jQuery);
-
-

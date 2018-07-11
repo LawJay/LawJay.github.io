@@ -1954,6 +1954,8 @@ POPUP ANIMATIONS
  CONTACT SECTION
 -------------------------------------------------------------------------------*/
 /*contact section*/
+
+
 #contact .card .card-content {
   /*form content*/ }
   #contact .card .card-content .input-field {
@@ -2249,3 +2251,7 @@ hr {
   margin: 0; }
 
 /*# sourceMappingURL=style.css.map */
+#map {
+    height: 500px;
+    width: 100%;
+}
